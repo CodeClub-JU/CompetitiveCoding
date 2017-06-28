@@ -4,6 +4,7 @@ Solution of various questions asked on popular online judge site.
 
 ### Structure
 
+```
 CompetitiveCoding
 └──Topic
    └──Subtopic
@@ -11,3 +12,4 @@ CompetitiveCoding
           ├── Problem statement
           ├── Solutions
           └── Remarks
+```
