@@ -12,4 +12,18 @@ A single integer denoting the number of disks.
 
 ## Output Format :
 
-Movement of each disk till our goal is achieved.
+Display movement of each disk till our goal is achieved.
+
+
+## Analysis
+
+Let n be the ummber of disks.
+
+If n = 1
+        Move single disk from peg A to peg C and stop.
+Else
+        Move the top (n-1) disks from peg A to peg B using peg C as auxiliary.
+
+Move remaining disks from peg A to peg C.
+
+Move (n-1) disks from peg B to peg C using peg A as auxiliary.
