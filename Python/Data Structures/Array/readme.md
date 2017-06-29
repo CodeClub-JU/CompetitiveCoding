@@ -4,7 +4,7 @@ Given an array, `A`, of `n` integers, print each element in reverse order as a s
 
 ### Input format
 
-The first line contains an integer, `n` (the number of integers in ,A`). 
+The first line contains an integer, `n` (the number of integers in `A`). 
 The second line contains `n` space-separated integers describing `A`.
 
 ### Analysis
