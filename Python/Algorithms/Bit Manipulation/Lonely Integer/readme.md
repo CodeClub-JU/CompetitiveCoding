@@ -13,8 +13,6 @@ The second line contains `n` space-separated integers describing the respective 
 
 - [Bitwise XOR](https://www.hackerrank.com/challenges/lonely-integer/topics/bitwise-xor)
 
-<sub> _Link to original question :_ https://www.hackerrank.com/challenges/lonely-integer/problem </sub>
-
 
 #### Analysis of the solution :
 
@@ -33,3 +31,6 @@ Let's consider this example :
 ![](http://latex.codecogs.com/svg.latex?%5CRightarrow%20%281000%29_%7B2%7D)
 
 ![](http://latex.codecogs.com/svg.latex?%5CRightarrow%20%288%29_%7B10%7D)
+
+
+<sub> _Link to original question :_ https://www.hackerrank.com/challenges/lonely-integer/problem </sub>
