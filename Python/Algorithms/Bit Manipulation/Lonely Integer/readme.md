@@ -14,13 +14,13 @@ The second line contains `n` space-separated integers describing the respective 
 - [Bitwise XOR](https://www.hackerrank.com/challenges/lonely-integer/topics/bitwise-xor)
 
 
-#### Analysis of the solution :
+### Analysis of the solution :
 
 The properties of XOR are : 
 - x^0 = x 
 - x^x = 0
 
-Now, what we're doing is performing a XOR of all the elements of the array. From property 2, we see that all numbers that occur twice will result in 0 after XOR-ing, and since the XOR of any number with 0 is the number itself, we thus obtain out required answer.
+Now, what we're doing is performing a XOR of all the elements of the array. From property 2, we see that all numbers that occur twice will result in 0 after XOR-ing, and since the XOR of any number with 0 is the number itself, we thus obtain our required answer.
 
 Let's consider this example :
 
