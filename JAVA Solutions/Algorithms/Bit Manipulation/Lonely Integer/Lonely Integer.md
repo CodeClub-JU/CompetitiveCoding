@@ -8,6 +8,7 @@ Given `A`, find and print the unique element.
 ## Input format
 
 The first line contains a single integer, `n`, denoting the number of integers in the array `A`.
+
 The second line contains `n` space-separated integers describing the respective values in `A`.
 
 # Output Format

@@ -6,7 +6,9 @@ The problem states that you are given a set of coins of worth coin[i] (Worth of 
 ## Input Format :
 
 An integer `n` denoting the number of coins.
+
 This will be followed by an integer `K`.
+
 This will be followed by `n` integers denoting the worth of each coin.
 
 ## Output Format :

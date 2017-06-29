@@ -6,7 +6,8 @@ Find the number of combinations of `n` distinct objects taken `r` at a time `nCr
 ## Input Format :
 
 An integer `n` denoting the number of distinct objects.
-An integer `r` denoting the number of objects to be taken at a time.
+
+This will be followed by an integer `r` denoting the number of objects to be taken at a time.
 
 ## Output :
 
