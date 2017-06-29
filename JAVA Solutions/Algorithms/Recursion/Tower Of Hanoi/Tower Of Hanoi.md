@@ -6,10 +6,10 @@ The problem states that there are 3 pegs A, B and C. Initially there are n disks
 2. A smaller disk must always be placed over a larger disk.
 
 
-Input Format :
+## Input Format :
 
 A single integer denoting the number of disks.
 
-Output Format :
+## Output Format :
 
 Movement of each disk till our goal is achieved.
