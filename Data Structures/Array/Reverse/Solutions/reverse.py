@@ -1,9 +1,7 @@
 #!/bin/python3
 
-import sys
-
-n = int(input().strip())
+n = int(input())
 arr = input().split()
 
-print(" ".join(arr[::-1]))
+print(*arr[::-1], sep=" ")
 
