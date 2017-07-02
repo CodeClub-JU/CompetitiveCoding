@@ -7,9 +7,9 @@ Solutions of all the problems discussed in the Code Club Sessions.
 ```
 CompetitiveCoding
 └── Topic
-        └── Subtopic
-                └── Problem Name 
-                        ├── Problem statement
-                        ├── Solutions (JAVA, Python and C++ solutions)
-                        └── Remarks (If Any)
+    └── Subtopic
+        └── Problem Name 
+            ├── Problem statement
+            ├── Solutions (JAVA, Python and C++ solutions)
+            └── Remarks (If Any)
 ```
