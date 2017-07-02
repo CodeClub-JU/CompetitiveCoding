@@ -6,25 +6,13 @@ Solutions of all the problems discussed in the Code Club Sessions.
 
 ```
 CompetitiveCoding
-└── JAVA Solutions
-|   └── Topic
-|       └── Subtopic
-|           └── Problem Name 
-|               ├── Problem statement
-|               ├── Solutions
-|               └── Remarks
-└── C++ Solutions
-|   └── Topic
-|       └── Subtopic
-|           └── Problem Name 
-|               ├── Problem statement
-|               ├── Solutions
-|               └── Remarks
-└── Python Solutions
-    └── Topic
+└── Topic
         └── Subtopic
-            └── Problem Name 
-                ├── Problem statement
-                ├── Solutions
-                └── Remarks
+                └── Problem Name 
+                        ├── Problem statement
+                        ├── Solutions
+                         |       └── JAVA Solution
+                         |       ├── Python Solution
+                         |       └── C++ Solutions
+                        └── Remarks (If Any)
 ```
