@@ -10,9 +10,6 @@ CompetitiveCoding
         └── Subtopic
                 └── Problem Name 
                         ├── Problem statement
-                        ├── Solutions
-                         |       └── JAVA Solution
-                         |       ├── Python Solution
-                         |       └── C++ Solutions
+                        ├── Solutions (JAVA, Python and C++ solutions)
                         └── Remarks (If Any)
 ```
