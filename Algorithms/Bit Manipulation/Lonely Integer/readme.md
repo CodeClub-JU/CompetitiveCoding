@@ -11,7 +11,7 @@ The first line contains a single integer, `n`, denoting the number of integers i
 
 The second line contains `n` space-separated integers describing the respective values in `A`.
 
-# Output Format
+## Output Format
 
 Print the unique element that occurs only once in `A`.
 
